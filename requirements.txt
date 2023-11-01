@@ -1,8 +1,9 @@
 pyrogram==2.0.106
 pyrofork==2.2.10
 tgcrypto
-pymongo[srv]==3.12.3
-motor==2.5.1
+pymongo[srv]
+pymongo
+motor
 marshmallow==3.14.1
 umongo==3.0.1
 requests
@@ -18,7 +19,7 @@ dnspython
 pynewtonmath
 openai
 jinja2
-python-dotenv<=0.20.0
+python-dotenv
 apscheduler
 pyshorteners
 psutil
